@@ -111,6 +111,10 @@ nav a:active {
 	margin-top: 10px;
 }
  
+ /*==============================
+	Student Icons
+==============================*/
+ nav li:nth-child(2) a
  
 /*==============================
 	Navigation: Page Indicators
